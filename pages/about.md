@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<!--Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
-<!--You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com).
-<!--Wish you enjoying your blog life!
-<!--[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-<!--[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-<!--[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-<!--[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues-->
+I'm Giacomo, I was born in January 2000, I enjoy **running**, **studying**, **foreign languages** and **ice cream**.
 
+I am into low-level stuff: **digital design and verification**, **CPU architecture**, **computer architecture** and **compilers**.
+I follow a _learning by doing_ approach, so I enjoy building my own projects to prove myself that I actually mastered a concept.
+While this can look like _re-inventing the wheel_, I think this is the most rewarding method in the long run.
+
+... WIP ...
