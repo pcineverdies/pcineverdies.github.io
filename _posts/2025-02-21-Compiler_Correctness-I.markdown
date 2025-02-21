@@ -47,7 +47,7 @@ ret
 Which is identical to what I have described above. However, by increasing the level of optimization, you end up with:
 
 ```
-\_Z1fi:
+_Z1fi:
 movl $10, %eax
 ret
 ```
@@ -63,6 +63,10 @@ When all values are known beforehand, the results are always correct.
 How should we interpret this situation? Clearly an endless loop is something that you want to avoid in 99.99% of the cases.
 And then, if you are aware of what you are doing, you can ask the compiler to skip some specific optimizations until you get what you need.
 However, it's interesting how compiler engineers decided to handle these corner cases by ignoring the basic principle of _keeping the original semantic_.
+
+---
+
+Sources: [1], [2], [3].
 
 [my own hand-crafted compiler]: https://github.com/pcineverdies/dummy_cc
 [1]: https://www.reddit.com/r/Compilers/comments/176b5oi/how_to_remove_dead_code_in_this_code
