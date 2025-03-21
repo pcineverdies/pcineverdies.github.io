@@ -62,7 +62,7 @@ She probably wouldn’t like ginge<b class="red">r</b> beer, but that’s a matt
 
 Imagine a life with a different eye color. 
 How <b class="red">m</b>uch would it change? 
-How difficult would it e<b class="red">e</b> to walk one yard without falling? 
+How difficult would it b<b class="red">e</b> to walk one yard without falling? 
 I don’t like pl<b class="red">a</b>ying the accordio<b class="red">n</b>, so I am glad I am not short. 
 I ride m<b class="red">y</b> horse on the right side, so I a<b class="red">m</b> not German, but I bet it would be easy to learn how t<b class="red">o</b> knit. 
 And if Eurydice turns around, do not blame he<b class="red">r</b> - God works in predictabl<b class="red">e</b> ways.
